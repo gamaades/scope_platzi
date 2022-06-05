@@ -16,3 +16,5 @@ const otraFuncion = () => {
 }
 // Nota, las variables reasignadas con let o const no se pueden reasignar dentro de este ambito. var si puede reasignar valores. Una buena practica
 otraFuncion();
+
+//prueba de pull
